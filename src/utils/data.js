@@ -257,7 +257,7 @@ export const products = [
 	},
 	{
 		id: 8,
-		name: 'POWER WEEDER WM 1000N/A',
+		name: 'POWER WEEDER WM 1100A6 DLX',
 		image: 'agri-07.png',
 		images: [
 			'/assets/product-images/WM 1100C6 WITH BACKROTARY ATTACHMENT/Untitled design.png',
